@@ -35,3 +35,19 @@ C. setTimeout()
 
 ### 12) What JavaScript function is used to run code periodically?
 B. setInterval()
+
+
+
+## Short Answer Questions
+
+### In your own words, explain what the DOM is and how it relates to HTML documents.
+The DOM is the Document Object Model it is a representation of the HTML documents. It lets you connect the HTML to the Javascript.
+
+### In your own words, explain what nodes are and how they relate to elements in HTML documents.
+Nodes are representations of each HTML tag.
+
+### In your own words explain the role played by the window object.
+The window object has some global properties that make life easier.
+
+### Explain how the Window object relates to the global scope.
+The window object is the global scope. 
